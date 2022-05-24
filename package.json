@@ -1,0 +1,31 @@
+{
+  "name": "decentralized-voting",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bootstrap": "5.1.3",
+    "mocha":"*",
+    "chai": "*",
+    "truffle": "^5.5.2",
+    "web3": "1.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Debrup Chatterjee",
+  "license": "MIT",
+  "description": "A decentralized voting system",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cozy03/Decentralized-voting.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Cozy03/Decentralized-voting/issues"
+  },
+  "homepage": "https://github.com/Cozy03/Decentralized-voting#readme"
+}
+
